@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "橙ラプソディー",
+  "base_artist": "佐藤千亜妃",
+  "createdAt": "2026-02-07T07:32:52.848647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "橙ラプソディー",
+      "artist": "佐藤千亜妃",
+      "has_synced": true,
+      "path": "select/01_橙ラプソディー_佐藤千亜妃.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "橙ラプソディー",
+      "artist": "CHIAKI SATO",
+      "has_synced": true,
+      "path": "select/02_橙ラプソディー_CHIAKI_SATO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "橙ラプソディー",
+      "artist": "佐藤千亜妃",
+      "has_synced": false,
+      "path": "select/pl_01_橙ラプソディー_佐藤千亜妃.txt"
+    }
+  ]
+}
